@@ -1,16 +1,42 @@
-## Hi there 👋
+# Joe Cameron Blake Wolters
 
-<!--
-**ReaIGodzilla/ReaIGodzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pre-Medical Researcher — AI Medical Imaging, Clinical Data, and Digital Media**
 
-Here are some ideas to get you started:
+Biology undergraduate at the University of South Florida (Medical Concentration, expected May 2028, GPA 3.83). Co-author on a submitted *Neurosurgery* manuscript on AI-driven Vertebral Bone Quality scoring (LSU Health Shreveport, 2025). I build software, work with medical imaging, edit video, and use AI tools at depth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- **MRI / VBQ research** at LSU Health Shreveport — segmentation and dataset validation for an AI pipeline supporting spine-surgery decision-making (3D Slicer, ITK-SNAP, MicroDICOM).
+- **[realanimereviews.com](https://realanimereviews.com)** — a production web application I designed, built, and deployed solo. Vanilla HTML/CSS/JS frontend, Firebase (Auth, Firestore, Cloud Storage, Hosting) backend, end-to-end Playwright tests, custom domain via Namecheap DNS.
+- **lowlvledits** — short- and long-form video editing for YouTube and Instagram.
+
+## How I work with AI
+
+- Daily user of Anthropic Claude (including **Claude Code** as a development environment) and OpenAI ChatGPT.
+- Integrated a custom **Model Context Protocol (MCP) server** (`code-review-graph`) into my main project for graph-based code review and impact analysis.
+- Maintain a project-level `CLAUDE.md` that codifies how AI agents should operate inside the codebase — a real engineering discipline around AI use, not just casual prompting.
+
+## Tech I use
+
+**Web:** vanilla JavaScript (ES modules), HTML5, CSS3, Firebase (Auth, Firestore, Storage, Hosting), Git/GitHub, VS Code, Node.js / npm, Playwright, DNS configuration
+
+**AI tooling:** Anthropic Claude, Claude Code, OpenAI ChatGPT, custom MCP servers
+
+**Medical imaging:** 3D Slicer, ITK-SNAP, MicroDICOM, manual VBQ scoring, clinical dataset validation
+
+**Creative:** CapCut (video editing), Adobe Photoshop, social media production for YouTube and Instagram
+
+## Selected publication
+
+Quinones CJ, Jameson W, Schwartz A, Lupo B, **Wolters J**, Kumbhare D, Guthikonda B, Hoang S. *Automated Quantification of Vertebral Bone Quality Score Using an Artificial Intelligence Framework.* Neurosurgery. Submitted September 2025.
+
+## Education
+
+**University of South Florida** — B.S. Biology, Medical Concentration (Expected May 2028 · GPA 3.83)
+
+## Contact
+
+- Email: [joewolters@usf.edu](mailto:joewolters@usf.edu)
+- CV: [joewolters.github.io/cv.pdf](https://joewolters.github.io/cv.pdf)
+- GitHub: [@joewolters](https://github.com/joewolters)
+- Project site: [realanimereviews.com](https://realanimereviews.com)
