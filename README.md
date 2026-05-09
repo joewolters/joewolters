@@ -2,7 +2,7 @@
 
 **Pre-Medical Researcher — AI Medical Imaging, Clinical Data, and Digital Media**
 
-Biology undergraduate at the University of South Florida (Medical Concentration, expected May 2028, GPA 3.83). Co-author on a submitted *Neurosurgery* manuscript on AI-driven Vertebral Bone Quality scoring (LSU Health Shreveport, 2025). I build software, work with medical imaging, edit videos, and use AI tools at depth.
+Biology undergraduate at the University of South Florida (Medical Concentration, expected May 2028). Co-author on a submitted *Neurosurgery* manuscript on AI-driven Vertebral Bone Quality scoring (LSU Health Shreveport, 2025). I build software, work with medical imaging, edit videos, and use AI tools at depth.
 
 ## What I'm working on
 
@@ -21,10 +21,6 @@ Biology undergraduate at the University of South Florida (Medical Concentration,
 
 **Web:** vanilla JavaScript (ES modules), HTML5, CSS3, Firebase (Auth, Firestore, Storage, Hosting), Git/GitHub, VS Code, Node.js / npm, Playwright, DNS configuration
 
-**Audio/Video processing:** FFmpeg, fluent-ffmpeg, Express, multer; spectral-flux signal processing for rally detection
-
-**Computer vision:** YOLOv8 / Ultralytics (in progress for PickleClipper visual phase)
-
 **AI tooling:** Anthropic Claude, Claude Code, OpenAI ChatGPT, custom MCP servers
 
 **Medical imaging:** 3D Slicer, ITK-SNAP, MicroDICOM, manual VBQ scoring, clinical dataset validation
@@ -37,11 +33,11 @@ Quinones CJ, Jameson W, Schwartz A, Lupo B, **Wolters J**, Kumbhare D, Guthikond
 
 ## Education
 
-**University of South Florida** — B.S. Biology, Medical Concentration (Expected May 2028 · GPA 3.83)
+**University of South Florida** — B.S. Biology, Medical Concentration (Expected May 2028)
 
 ## Contact
 
 - Email: [joewolters@usf.edu](mailto:joewolters@usf.edu)
 - CV: [joewolters.github.io/cv.pdf](https://joewolters.github.io/cv.pdf)
 - GitHub: [@joewolters](https://github.com/joewolters)
-- Project site: [realanimereviews.com](https://realanimereviews.com)
+- Project site: [r
