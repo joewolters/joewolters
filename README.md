@@ -8,6 +8,7 @@ Biology undergraduate at the University of South Florida (Medical Concentration,
 
 - **MRI / VBQ research** at LSU Health Shreveport — segmentation and dataset validation for an AI pipeline supporting spine-surgery decision-making (3D Slicer, ITK-SNAP, MicroDICOM).
 - **[realanimereviews.com](https://realanimereviews.com)** — a production web application I designed, built, and deployed solo. Vanilla HTML/CSS/JS frontend, Firebase (Auth, Firestore, Cloud Storage, Hosting) backend, end-to-end Playwright tests, custom domain via Namecheap DNS.
+- **PickleClipper** *(work in progress)* — a local Node.js + FFmpeg web app that automatically trims raw pickleball footage down to just the rally action. Currently uses spectral-flux audio analysis (~92% recall on the labeled outdoor singles test set); next phase integrates YOLOv8 player tracking for visual rally identification.
 - **lowlvledits** ([YouTube](https://www.youtube.com/@lowlvledits) · [Instagram](https://www.instagram.com/lowlvledits)) — short- and long-form video editing.
 
 ## How I work with AI
@@ -19,6 +20,10 @@ Biology undergraduate at the University of South Florida (Medical Concentration,
 ## Tech I use
 
 **Web:** vanilla JavaScript (ES modules), HTML5, CSS3, Firebase (Auth, Firestore, Storage, Hosting), Git/GitHub, VS Code, Node.js / npm, Playwright, DNS configuration
+
+**Audio/Video processing:** FFmpeg, fluent-ffmpeg, Express, multer; spectral-flux signal processing for rally detection
+
+**Computer vision:** YOLOv8 / Ultralytics (in progress for PickleClipper visual phase)
 
 **AI tooling:** Anthropic Claude, Claude Code, OpenAI ChatGPT, custom MCP servers
 
