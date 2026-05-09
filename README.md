@@ -2,13 +2,13 @@
 
 **Pre-Medical Researcher — AI Medical Imaging, Clinical Data, and Digital Media**
 
-Biology undergraduate at the University of South Florida (Medical Concentration, expected May 2028, GPA 3.83). Co-author on a submitted *Neurosurgery* manuscript on AI-driven Vertebral Bone Quality scoring (LSU Health Shreveport, 2025). I build software, work with medical imaging, edit video, and use AI tools at depth.
+Biology undergraduate at the University of South Florida (Medical Concentration, expected May 2028, GPA 3.83). Co-author on a submitted *Neurosurgery* manuscript on AI-driven Vertebral Bone Quality scoring (LSU Health Shreveport, 2025). I build software, work with medical imaging, edit videos, and use AI tools at depth.
 
 ## What I'm working on
 
 - **MRI / VBQ research** at LSU Health Shreveport — segmentation and dataset validation for an AI pipeline supporting spine-surgery decision-making (3D Slicer, ITK-SNAP, MicroDICOM).
 - **[realanimereviews.com](https://realanimereviews.com)** — a production web application I designed, built, and deployed solo. Vanilla HTML/CSS/JS frontend, Firebase (Auth, Firestore, Cloud Storage, Hosting) backend, end-to-end Playwright tests, custom domain via Namecheap DNS.
-- **lowlvledits** — short- and long-form video editing for YouTube and Instagram.
+- **lowlvledits** ([YouTube](https://www.youtube.com/@lowlvledits) · [Instagram](https://www.instagram.com/lowlvledits)) — short- and long-form video editing.
 
 ## How I work with AI
 
