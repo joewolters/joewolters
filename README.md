@@ -8,20 +8,20 @@ Biology undergraduate at the University of South Florida (Medical Concentration,
 
 - **MRI / VBQ research** at LSU Health Shreveport — segmentation and dataset validation for an AI pipeline supporting spine-surgery decision-making (3D Slicer, ITK-SNAP, MicroDICOM).
 - **[realanimereviews.com](https://realanimereviews.com)** — a production web application I designed, built, and deployed solo. Vanilla HTML/CSS/JS frontend, Firebase (Auth, Firestore, Cloud Storage, Hosting) backend, end-to-end Playwright tests, custom domain via Namecheap DNS.
-- **PickleClipper** *(work in progress)* — a local Node.js + FFmpeg web app that automatically trims raw pickleball footage down to just the rally action. Currently uses spectral-flux audio analysis (~92% recall on the labeled outdoor singles test set); next phase integrates YOLOv8 player tracking for visual rally identification.
+- **PickleClipper** *(work in progress)* — a full-stack web application that automatically trims raw pickleball match footage down to just the rally action, combining spectral audio analysis with computer-vision player tracking.
 - **lowlvledits** ([YouTube](https://www.youtube.com/@lowlvledits) · [Instagram](https://www.instagram.com/lowlvledits)) — short- and long-form video editing.
 
 ## How I work with AI
 
-- Daily user of Anthropic Claude (including **Claude Code** as a development environment) and OpenAI ChatGPT.
-- Integrated a custom **Model Context Protocol (MCP) server** (`code-review-graph`) into my main project for graph-based code review and impact analysis.
-- Maintain a project-level `CLAUDE.md` that codifies how AI agents should operate inside the codebase — a real engineering discipline around AI use, not just casual prompting.
+- Daily user of Anthropic Claude (including **Claude Code** as a development environment) and OpenAI ChatGPT, used at depth across design, implementation, debugging, code review, and documentation rather than as a chat-and-paste replacement for Stack Overflow.
+- Maintain project-level `CLAUDE.md` files in each repository that codify how AI agents should operate inside that codebase — engineering discipline around AI use, not just casual prompting.
+- Comfortable directing AI tools through real engineering work, debugging what they get wrong, and codifying the resulting workflows so they remain reproducible.
 
 ## Tech I use
 
 **Web:** vanilla JavaScript (ES modules), HTML5, CSS3, Firebase (Auth, Firestore, Storage, Hosting), Git/GitHub, VS Code, Node.js / npm, Playwright, DNS configuration
 
-**AI tooling:** Anthropic Claude, Claude Code, OpenAI ChatGPT, custom MCP servers
+**AI tooling:** Anthropic Claude, Claude Code, OpenAI ChatGPT
 
 **Medical imaging:** 3D Slicer, ITK-SNAP, MicroDICOM, manual VBQ scoring, clinical dataset validation
 
